@@ -7,5 +7,8 @@
     <string name="okay">Okay (15%)</string>
     <string name="round_tip_questions">Round up tip?</string>
     <string name="calculate">Calculate</string>
-    <string name="tip_amount">Tip Amount</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="email_icon">email icon</string>
+
+
 </resources>
